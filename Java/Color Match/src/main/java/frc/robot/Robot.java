@@ -5,6 +5,9 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
+/*
+ *  Add color stuff here
+ */
 package frc.robot;
 
 import edu.wpi.first.wpilibj.TimedRobot;
